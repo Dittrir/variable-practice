@@ -12,3 +12,5 @@ scary = false
 dogs = Array.dog(20)
 cats = Array.new(6, "cat")
 puts "#{cats}"
+
+{"Chihuahua" => "Little dog", "Brown" => "Tan"}
